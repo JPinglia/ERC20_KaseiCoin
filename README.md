@@ -34,4 +34,8 @@ KasieCoin Deployment Contract:
 https://user-images.githubusercontent.com/95830866/169704211-78ceadd3-7464-45ca-b01d-ceb1461bc1f2.mp4
 
 
+## Contributors
+This program was developed with base code developed by the Rice-boot-camp. Code was created and added by JPinglia.
 
+## License
+License for this project and associated file is public.
